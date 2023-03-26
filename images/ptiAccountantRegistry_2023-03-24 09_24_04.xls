@@ -1,0 +1,3042 @@
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+
+<style>
+    .td {
+        border-width: 1px;
+        border-style: solid;
+        border-color: #000;
+    }
+    .pti {
+        background: #059cb8;
+        color: #fff;
+        padding: 5px;
+    }
+    .owner {
+        background: #478f4d;
+        color: #fff;
+        padding: 5px;
+    }
+    .payer {
+        background: #ff9000;
+        color: #fff;
+        padding: 5px;
+    }
+    .pay {
+        background: #ff5646;
+        color: #fff;
+        padding: 5px;
+    }
+</style>
+<div class="aio">
+    <table>
+        <tr>
+            <th class="pti">N</th>
+            <th class="pti">სარეგ. ნომერი</th>
+            <th class="pti">პტი დღე</th>
+            <th class="pti">პტი საათი</th>
+            <th class="pti">პტი ტიპი</th>
+            <th class="owner">მფლობელი</th>
+            <th class="owner">მფლობ. საიდენტიფიკაციო</th>
+            <th class="payer">გადამხდელი</th>
+            <th class="payer">გადამხდ. საიდენტიფიკაციო</th>
+            <th class="pay">საფასური</th>
+            <th class="pay">გადახდა</th>
+            <th class="pay">ტრანზაქციის ID</th>
+            <th class="pay">გადახდის ტიპი</th>
+            <th class="pay">ინვოისის ნომერი</th>
+        </tr>
+                    <tr>
+                <td class="td">
+                    1
+                </td>
+                <td class="td">
+                    VY689YV
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    18:36:37
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    TBC Pay მოთხოვნა
+                </td>
+                <td class="td">
+                    3977597
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    2
+                </td>
+                <td class="td">
+                    TT128TF
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    18:20:45
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3977574
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    3
+                </td>
+                <td class="td">
+                    EN642EN
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    18:14:01
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    შპს ბიდი პლიუსი
+                </td>
+                <td class="td">
+                    400177615
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    საბანკო გადარიცხვა ავანსი
+                </td>
+                <td class="td">
+                    3977579
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    4
+                </td>
+                <td class="td">
+                    FE695EE
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    17:45:08
+                </td>
+                <td class="td">
+                    განმეორებითი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    20.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3977482
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    5
+                </td>
+                <td class="td">
+                    WW032WF
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    17:09:59
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3977441
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    6
+                </td>
+                <td class="td">
+                    HJ167HJ
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    16:45:42
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    შპს დიზი
+                </td>
+                <td class="td">
+                    436048778
+                </td>
+                <td class="td">
+                    ფ/პ
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117639590
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3977351
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    7
+                </td>
+                <td class="td">
+                    PX212XP
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    16:36:48
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3977339
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    8
+                </td>
+                <td class="td">
+                    FC786CF
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    16:32:12
+                </td>
+                <td class="td">
+                    განმეორებითი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    20.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3977321
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    9
+                </td>
+                <td class="td">
+                    NP743NN
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    16:31:43
+                </td>
+                <td class="td">
+                    განმეორებითი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    20.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3977320
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    10
+                </td>
+                <td class="td">
+                    BW296WB
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    16:19:24
+                </td>
+                <td class="td">
+                    განმეორებითი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    20.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3977275
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    11
+                </td>
+                <td class="td">
+                    HI494IH
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    15:55:45
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3977168
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    12
+                </td>
+                <td class="td">
+                    SS356VV
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    15:51:19
+                </td>
+                <td class="td">
+                    განმეორებითი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    20.00
+                </td>
+                <td class="td">
+                    20.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117610395
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3977172
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    13
+                </td>
+                <td class="td">
+                    TT976KK
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    15:04:11
+                </td>
+                <td class="td">
+                    განმეორებითი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    20.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3977027
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    14
+                </td>
+                <td class="td">
+                    TT976KK
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    14:59:30
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3976950
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    15
+                </td>
+                <td class="td">
+                    CC575LL
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    14:45:26
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3976938
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    16
+                </td>
+                <td class="td">
+                    KQ084KQ
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    14:10:00
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3976796
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    17
+                </td>
+                <td class="td">
+                    IU969RA
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    13:57:52
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117533024
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3976752
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    18
+                </td>
+                <td class="td">
+                    BB022II
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    13:17:51
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117503641
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3976595
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    19
+                </td>
+                <td class="td">
+                    JS788SJ
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    13:14:32
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117502226
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3976585
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    20
+                </td>
+                <td class="td">
+                    WW255RR
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    13:05:32
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3976575
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    21
+                </td>
+                <td class="td">
+                    VQ624OV
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    13:04:15
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117497215
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3976550
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    22
+                </td>
+                <td class="td">
+                    JH401HJ
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    12:58:58
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117496558
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3976546
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    23
+                </td>
+                <td class="td">
+                    VG605GV
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    12:52:04
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117493001
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3976517
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    24
+                </td>
+                <td class="td">
+                    GI444XA
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    12:42:37
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3976475
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    25
+                </td>
+                <td class="td">
+                    JJ644PP
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    12:29:14
+                </td>
+                <td class="td">
+                    განმეორებითი
+                </td>
+                <td class="td">
+                    შპს  &quot;ალფა დისტრიბუშენ&quot;
+                </td>
+                <td class="td">
+                    200270884
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    20.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3976438
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    26
+                </td>
+                <td class="td">
+                    IJ505IJ
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    12:27:16
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117477787
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3976423
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    27
+                </td>
+                <td class="td">
+                    PW105PW
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    12:24:13
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    100.00
+                </td>
+                <td class="td">
+                    100.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117471781
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3976398
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    28
+                </td>
+                <td class="td">
+                    YY396RR
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    11:56:13
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    შპს ვიტამინი 2017
+                </td>
+                <td class="td">
+                    400184910
+                </td>
+                <td class="td">
+                    ფ/პ
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117453647
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3976278
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    29
+                </td>
+                <td class="td">
+                    LI300FT
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    11:44:03
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    შპს *საქ ლიფტების კომპანია*
+                </td>
+                <td class="td">
+                    204554534
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3976263
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    30
+                </td>
+                <td class="td">
+                    LI300FT
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    11:30:45
+                </td>
+                <td class="td">
+                    განმეორებითი
+                </td>
+                <td class="td">
+                    შპს *საქ ლიფტების კომპანია*
+                </td>
+                <td class="td">
+                    204554534
+                </td>
+                <td class="td">
+                    შპს *საქ ლიფტების კომპანია*
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    20.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3976186
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    31
+                </td>
+                <td class="td">
+                    NY993YN
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    11:20:22
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3976189
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    32
+                </td>
+                <td class="td">
+                    FF767II
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    11:10:25
+                </td>
+                <td class="td">
+                    განმეორებითი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    20.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3976179
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    33
+                </td>
+                <td class="td">
+                    LZ700RE
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    11:04:42
+                </td>
+                <td class="td">
+                    განმეორებითი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    20.00
+                </td>
+                <td class="td">
+                    20.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117430080
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3976128
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    34
+                </td>
+                <td class="td">
+                    MN001LK
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    10:59:50
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3976080
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    35
+                </td>
+                <td class="td">
+                    BB515SS
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    10:51:30
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117424396
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3976076
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    36
+                </td>
+                <td class="td">
+                    DD609CC
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    10:48:12
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117422242
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3976049
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    37
+                </td>
+                <td class="td">
+                    GA800NI
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    10:42:41
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117421558
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3976040
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    38
+                </td>
+                <td class="td">
+                    VQ361QV
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    10:34:14
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117416524
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3976008
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    39
+                </td>
+                <td class="td">
+                    FF767II
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    10:26:35
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3975987
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    40
+                </td>
+                <td class="td">
+                    AA846WA
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    10:05:57
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </td>
+                <td class="td">
+                    POS ტერმინალი
+                </td>
+                <td class="td">
+                    3975943
+                </td>
+            </tr>
+                    <tr>
+                <td class="td">
+                    41
+                </td>
+                <td class="td">
+                    TG747TT
+                </td>
+                <td class="td">
+                    23 მარ  2023
+                </td>
+                <td class="td">
+                    09:13:44
+                </td>
+                <td class="td">
+                    პირველადი
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+                    60.00
+                </td>
+                <td class="td">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2117387681
+                </td>
+                <td class="td">
+                    TBC Pay
+                </td>
+                <td class="td">
+                    3975823
+                </td>
+            </tr>
+            </table>
+</div>

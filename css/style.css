@@ -1,0 +1,264 @@
+
+.s-1, .s-2 {
+    padding: 5% 5% 0% 5%;
+}
+.contact h1 {
+    width: 48px;
+    height: 11px;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: #5863F8;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 16px;
+}
+.contact h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 56px;
+    font-style: normal;
+    text-align: left;
+    color: #000000;
+    width:378px;
+    height: 110px;
+    margin-bottom: 16px;
+
+}
+form {
+    width: 90%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.description-box {
+    width: 60%;
+    height: 288px;
+    border-color: #e8e8e8;
+    border-width: 2px;
+    border-style: solid;
+    background: #f8f8f8;
+
+}
+.description-box > input {
+    width: 100%;
+    height: 100%;
+    text-align: start;
+    background-color: #f8f8f8;
+    border: 2px solid #e8e8e8;
+    color: #e8e8e8;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+
+.registrcion {
+    width: 38%;
+    height: 288px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.registrcion >input {
+    width: 100%;
+    height: 60px;
+    background-color: #f8f8f8;
+    border: 2px solid #e8e8e8;
+    color: #e8e8e8;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    outline: none;
+    font-weight: 400;
+    line-height: 13px;
+    font-style: normal;
+    text-align: left;
+
+}
+#Send {
+    background-color: #5863f8;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    outline: none;
+    font-weight: 400;
+    line-height: 13px;
+    font-style: normal;
+    text-align: center;
+    color: white;
+}
+
+.Contact-info {
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+
+}
+.icons {
+    width: 33.3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.box-icon {
+    width: 60px;
+    height: 60px;
+    background-color: #5863f8;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons h5 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    margin-top: 10px;
+}
+.contact1{
+    margin-top: 7px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    margin-top: 7px;
+}
+.contact1 a {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    font-style: normal;
+    text-align: center;
+    color: #B1B1B1;
+
+}
+
+
+.contact1 a {
+    margin-top:10px;
+}
+
+.s-2-title h4 {
+    width: 48px;
+    height: 11px;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: #5863F8;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 16px;
+}
+.s-2-title h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 56px;
+    font-style: normal;
+    text-align: left;
+    color: #000000;
+    width:544px;
+    height: auto;
+    margin-bottom: 16px;
+
+}
+
+.offer-photos {
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.offer-photos div {
+    width: 33.3%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.offer-photos div img {
+    width:70%;
+    height: auto;
+}
+.f-1 {
+    margin-top: 2%;
+    width: 100%;
+    height: 360px;
+    background-color: black;
+    display: flex;
+
+
+
+}
+.about-page {
+    display: flex;
+    width: 100%;
+    height: auto;
+    flex-direction:row;
+    flex-wrap: nowrap;
+}
+
+.container-footer {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+
+}
+.info-hotel {
+    width: 25%;
+    height: auto;
+    margin-left: 15%;
+}
+.about-page h5 {
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.about-page p {
+    font-family: 'Poppins', sans-serif;
+    color: #b1b1b1;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.socmedia {
+    width: 30%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    line-height: 20px;
+
+}
+
+.Mainbox {
+    width: 75%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Mainbox ul li a  {
+    font-family: 'Poppins', sans-serif;
+    color: #5863f8;
+    font-size: 14px;
+    line-height: 30px;
+
+}
+.ContactInfo {
+    color: #5863F8;
+}
+.ContactInfo ul li a {
+    color: #FFFFFF;
+}
